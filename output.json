@@ -1,0 +1,429 @@
+{
+    "data": [
+        {
+            "Rank": "1",
+            "Name": "Penn (Wharton)",
+            "City": "Philadelphia (PA), San Francisco (CA)",
+            "Country": "United States",
+            "highLights": {
+                "Start Month": "May",
+                "Class Size": "234",
+                "Avg Work Exp": "11",
+                "Avg. Student Age": "35",
+                "international-students": "36%",
+                "women std": "32%",
+                "Avg. salary": "190,000USD",
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB"
+            }
+        },
+        {
+            "Rank": "2",
+            "Name": "MIT (Sloan)",
+            "City": "Cambridge (MA)",
+            "Country": "United States",
+            "highLights": {
+                "Start Month": "Jan",
+                "Class Size": "126",
+                "Avg Work Exp": "17",
+                "Avg. Student Age": "35",
+                "international-students": "48%",
+                "women std": "34%",
+                "Avg. salary": null,
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB"
+            }
+        },
+        {
+            "Rank": "3",
+            "Name": "London Business School",
+            "City": "London",
+            "Country": "United Kingdom",
+            "highLights": {
+                "Start Month": "Jan,\u00a0Sep",
+                "Class Size": "74",
+                "Avg Work Exp": "13",
+                "Avg. Student Age": "35",
+                "international-students": "66%",
+                "women std": "25%",
+                "Avg. salary": "154,505USD",
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB|AMBA|EQUIS"
+            }
+        },
+        {
+            "Rank": "4",
+            "Name": "Northwestern (Kellogg)",
+            "City": "Evanston (IL), Miami (FL)",
+            "Country": "United States",
+            "highLights": {
+                "Start Month": "Jan,\u00a0Sep",
+                "Class Size": "52",
+                "Avg Work Exp": "14",
+                "Avg. Student Age": "38",
+                "international-students": "18%",
+                "women std": "26%",
+                "Avg. salary": null,
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB"
+            }
+        },
+        {
+            "Rank": "5",
+            "Name": "Berkeley (Haas)",
+            "City": "Berkeley (CA)",
+            "Country": "United States",
+            "highLights": {
+                "Start Month": "May",
+                "Class Size": "72",
+                "Avg Work Exp": "14",
+                "Avg. Student Age": "35",
+                "international-students": "20%",
+                "women std": "39%",
+                "Avg. salary": null,
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB"
+            }
+        },
+        {
+            "Rank": "5",
+            "Name": "Chicago (Booth)",
+            "City": "Chicago (IL), London, Hong Kong",
+            "Country": "Multi Campus",
+            "highLights": {
+                "Start Month": "Jun",
+                "Class Size": "245",
+                "Avg Work Exp": "13",
+                "Avg. Student Age": "37",
+                "international-students": null,
+                "women std": "22%",
+                "Avg. salary": null,
+                "Scholarship": null,
+                "Accreditations": "AACSB"
+            }
+        },
+        {
+            "Rank": "7",
+            "Name": "Columbia",
+            "City": "New York (NY)",
+            "Country": "United States",
+            "highLights": {
+                "Start Month": "Jan,\u00a0May,\u00a0Aug",
+                "Class Size": "137",
+                "Avg Work Exp": "9",
+                "Avg. Student Age": "35",
+                "international-students": "28%",
+                "women std": "35%",
+                "Avg. salary": null,
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB"
+            }
+        },
+        {
+            "Rank": "8",
+            "Name": "Oxford (Said)",
+            "City": "Oxford",
+            "Country": "United Kingdom",
+            "highLights": {
+                "Start Month": "Jan",
+                "Class Size": "65",
+                "Avg Work Exp": "14",
+                "Avg. Student Age": "37",
+                "international-students": "72%",
+                "women std": "28%",
+                "Avg. salary": null,
+                "Scholarship": "Yes",
+                "Accreditations": "AMBA"
+            }
+        },
+        {
+            "Rank": "9",
+            "Name": "UCLA (Anderson)",
+            "City": "Los Angeles (CA)",
+            "Country": "United States",
+            "highLights": {
+                "Start Month": "Sep",
+                "Class Size": "137",
+                "Avg Work Exp": "14",
+                "Avg. Student Age": "35",
+                "international-students": "21%",
+                "women std": "30%",
+                "Avg. salary": null,
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB"
+            }
+        },
+        {
+            "Rank": "10",
+            "Name": "Cambridge (Judge)",
+            "City": "Cambridge",
+            "Country": "United Kingdom",
+            "highLights": {
+                "Start Month": null,
+                "Class Size": "81",
+                "Avg Work Exp": "13",
+                "Avg. Student Age": "37",
+                "international-students": "74%",
+                "women std": "30%",
+                "Avg. salary": "97,000USD",
+                "Scholarship": "Yes",
+                "Accreditations": "-"
+            }
+        },
+        {
+            "Rank": "10",
+            "Name": "IESE Business school",
+            "City": "Barcelona, New York (NY), Silicon Valley",
+            "Country": "Spain",
+            "highLights": {
+                "Start Month": "Feb",
+                "Class Size": "60",
+                "Avg Work Exp": "15",
+                "Avg. Student Age": "38",
+                "international-students": "89%",
+                "women std": "35%",
+                "Avg. salary": "270,281USD",
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB|AMBA|EQUIS"
+            }
+        },
+        {
+            "Rank": "12",
+            "Name": "INSEAD",
+            "City": "Fontainebleau, Abu Dhabi, Singapore",
+            "Country": "Multi Campus",
+            "highLights": {
+                "Start Month": "Aug,\u00a0Oct,\u00a0Nov",
+                "Class Size": null,
+                "Avg Work Exp": "13",
+                "Avg. Student Age": null,
+                "international-students": "89%",
+                "women std": "25%",
+                "Avg. salary": "200,000USD",
+                "Scholarship": null,
+                "Accreditations": "AACSB|EQUIS"
+            }
+        },
+        {
+            "Rank": "13",
+            "Name": "HEC Paris",
+            "City": "Paris, Doha",
+            "Country": "France",
+            "highLights": {
+                "Start Month": null,
+                "Class Size": null,
+                "Avg Work Exp": null,
+                "Avg. Student Age": null,
+                "international-students": null,
+                "women std": null,
+                "Avg. salary": null,
+                "Scholarship": null,
+                "Accreditations": null
+            }
+        },
+        {
+            "Rank": "14",
+            "Name": "NYU (Stern)",
+            "City": "New York (NY)",
+            "Country": "United States",
+            "highLights": {
+                "Start Month": "Jan,\u00a0Aug",
+                "Class Size": "62",
+                "Avg Work Exp": "13",
+                "Avg. Student Age": "35",
+                "international-students": "30%",
+                "women std": "32%",
+                "Avg. salary": null,
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB|EQUIS"
+            }
+        },
+        {
+            "Rank": "15",
+            "Name": "Yale",
+            "City": "New Haven (CT)",
+            "Country": "United States",
+            "highLights": {
+                "Start Month": "Jan",
+                "Class Size": "71",
+                "Avg Work Exp": "12",
+                "Avg. Student Age": "35",
+                "international-students": "38%",
+                "women std": "35%",
+                "Avg. salary": null,
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB"
+            }
+        },
+        {
+            "Rank": "16",
+            "Name": "IE Business School",
+            "City": "Madrid, Sao Paulo, Singapore, Los Angeles",
+            "Country": "Spain",
+            "highLights": {
+                "Start Month": "May",
+                "Class Size": null,
+                "Avg Work Exp": "16",
+                "Avg. Student Age": "39",
+                "international-students": "95%",
+                "women std": "23%",
+                "Avg. salary": "169,000USD",
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB|AMBA|EQUIS"
+            }
+        },
+        {
+            "Rank": "17",
+            "Name": "Imperial",
+            "City": "London",
+            "Country": "United Kingdom",
+            "highLights": {
+                "Start Month": "Feb",
+                "Class Size": "34",
+                "Avg Work Exp": "14",
+                "Avg. Student Age": null,
+                "international-students": "55%",
+                "women std": "24%",
+                "Avg. salary": "85,711USD",
+                "Scholarship": null,
+                "Accreditations": "AACSB|AMBA|EQUIS"
+            }
+        },
+        {
+            "Rank": "18",
+            "Name": "Michigan (Ross)",
+            "City": "Ann Arbor (MI), Los Angeles",
+            "Country": "United States",
+            "highLights": {
+                "Start Month": "Aug",
+                "Class Size": "72",
+                "Avg Work Exp": "15",
+                "Avg. Student Age": "40",
+                "international-students": "20%",
+                "women std": "27%",
+                "Avg. salary": "186,830USD",
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB"
+            }
+        },
+        {
+            "Rank": "19",
+            "Name": "SDA Bocconi",
+            "City": "Milan, Mumbai, Copenhagen, Ann Arbor (MI), Shanghai",
+            "Country": "Italy",
+            "highLights": {
+                "Start Month": null,
+                "Class Size": null,
+                "Avg Work Exp": "12",
+                "Avg. Student Age": null,
+                "international-students": null,
+                "women std": null,
+                "Avg. salary": null,
+                "Scholarship": null,
+                "Accreditations": "-"
+            }
+        },
+        {
+            "Rank": "20",
+            "Name": "Duke (Fuqua)",
+            "City": "Durham (NC), Santiago, Shanghai, Berlin, New Delhi",
+            "Country": "United States",
+            "highLights": {
+                "Start Month": "Jul",
+                "Class Size": "48",
+                "Avg Work Exp": "10",
+                "Avg. Student Age": "39",
+                "international-students": "38%",
+                "women std": "33%",
+                "Avg. salary": null,
+                "Scholarship": null,
+                "Accreditations": "AACSB"
+            }
+        },
+        {
+            "Rank": "21",
+            "Name": "IMD",
+            "City": "Lausanne, Palo Alto (CA), Beijing",
+            "Country": "Switzerland",
+            "highLights": {
+                "Start Month": "May,\u00a0Nov",
+                "Class Size": null,
+                "Avg Work Exp": "16",
+                "Avg. Student Age": null,
+                "international-students": "88%",
+                "women std": "22%",
+                "Avg. salary": null,
+                "Scholarship": null,
+                "Accreditations": "AACSB|AMBA|EQUIS"
+            }
+        },
+        {
+            "Rank": "22",
+            "Name": "Erasmus (RSM)",
+            "City": "Rotterdam",
+            "Country": "Netherlands",
+            "highLights": {
+                "Start Month": null,
+                "Class Size": null,
+                "Avg Work Exp": null,
+                "Avg. Student Age": null,
+                "international-students": null,
+                "women std": null,
+                "Avg. salary": null,
+                "Scholarship": null,
+                "Accreditations": "-"
+            }
+        },
+        {
+            "Rank": "23",
+            "Name": "ESADE",
+            "City": "Barcelona, Madrid",
+            "Country": "Spain",
+            "highLights": {
+                "Start Month": "Oct",
+                "Class Size": "42",
+                "Avg Work Exp": "11",
+                "Avg. Student Age": null,
+                "international-students": "80%",
+                "women std": "45%",
+                "Avg. salary": null,
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB|AMBA|EQUIS"
+            }
+        },
+        {
+            "Rank": "24",
+            "Name": "Toronto (Rotman)",
+            "City": "Toronto (ON), Shanghai, Milan, Mumbai, San Francisco",
+            "Country": "Canada",
+            "highLights": {
+                "Start Month": "Aug",
+                "Class Size": "58",
+                "Avg Work Exp": "15",
+                "Avg. Student Age": "37",
+                "international-students": "34%",
+                "women std": "40%",
+                "Avg. salary": null,
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB"
+            }
+        },
+        {
+            "Rank": "24",
+            "Name": "Warwick",
+            "City": "London, Coventry",
+            "Country": "United Kingdom",
+            "highLights": {
+                "Start Month": "Mar,\u00a0Apr,\u00a0Sep",
+                "Class Size": "168",
+                "Avg Work Exp": "12",
+                "Avg. Student Age": null,
+                "international-students": "38%",
+                "women std": "34%",
+                "Avg. salary": "245,582USD",
+                "Scholarship": "Yes",
+                "Accreditations": "AACSB|AMBA|EQUIS"
+            }
+        }
+    ]
+}

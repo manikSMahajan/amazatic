@@ -1,0 +1,7 @@
+{
+	"url" : "https://www.topmba.com/emba-rankings/global/2018",
+	"mysqlUser" : "root",
+	"mysqlPassword" : "mysql",
+	"host" : "localhost",
+	"dbName" : "manik"
+}
